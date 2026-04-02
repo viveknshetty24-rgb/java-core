@@ -42,7 +42,7 @@ The purpose of this repository is to:
 ```text
 java/
 │── basics/
-│   │── variables/
+│   │── variables/data types
 │   │── operators/
 │   │── input-output/
 │   │── conditionals/
