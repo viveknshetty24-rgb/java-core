@@ -24,7 +24,6 @@ It is created to build a strong foundation in Java through consistent practice a
 - Polymorphism
 - Encapsulation
 - Abstraction
-- Interfaces
 
 ---
 
