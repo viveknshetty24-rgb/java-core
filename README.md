@@ -1,4 +1,4 @@
-# Java ☕
+# Java 
 
 This repository contains my **Core Java learning journey**, including Java fundamentals, Object-Oriented Programming (OOP), and practice programs.
 
