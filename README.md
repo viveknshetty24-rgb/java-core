@@ -10,7 +10,7 @@ It is created to build a strong foundation in Java through consistent practice a
 
 ### Basics
 - Variables & Data Types
-- Operators
+- Operators (`arethmatic`,`logical`,`relational`)
 - Input / Output
 - Conditional Statements (`if-else`, `switch`)
 - Loops (`for`, `while`, `do-while`)
