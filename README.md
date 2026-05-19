@@ -13,6 +13,7 @@ It is created to build a strong foundation in Java through consistent practice a
 - Operators (`arethmatic`,`logical`,`relational`)
 - Input / Output
 - Conditional Statements (`if-else`, `switch`)
+- Jump Statements (`break`,`continue`)
 - Loops (`for`, `while`, `do-while`)
 - Methods
 - Pattern Programs
