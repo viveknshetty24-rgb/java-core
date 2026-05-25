@@ -8,7 +8,7 @@ It is created to build a strong foundation in Java through consistent practice a
 
 ## 📘 Topics Covered
 
-### Basics
+`### Basics`
 - Variables & Data Types
 - Operators (`arethmatic`,`logical`,`relational`)
 - Input / Output
@@ -18,7 +18,7 @@ It is created to build a strong foundation in Java through consistent practice a
 - Methods
 - Pattern Programs
 
-### OOP
+`### OOP`
 - Classes & Objects
 - Constructors
 - Inheritance
