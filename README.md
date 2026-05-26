@@ -38,7 +38,7 @@ The purpose of this repository is to:
 
 ---
 
-`## 📂 Repository Structure`
+## 📂 Repository Structure
 
 java/
 │── basics/
