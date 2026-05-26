@@ -28,7 +28,7 @@ It is created to build a strong foundation in Java through consistent practice a
 
 ---
 
-## 🎯 Purpose
+`## 🎯 Purpose`
 The purpose of this repository is to:
 - Strengthen Core Java fundamentals
 - Build strong OOP concepts
@@ -38,8 +38,8 @@ The purpose of this repository is to:
 
 ---
 
-## 📂 Repository Structure
-```text
+`## 📂 Repository Structure`
+
 java/
 │── basics/
 │   │── variables/data types
@@ -60,7 +60,7 @@ java/
 
 ---
 
-## 🚀 Future Scope
+`## 🚀 Future Scope`
 This repository will continue to grow with more:
 - Core Java concepts
 - OOP practice programs
