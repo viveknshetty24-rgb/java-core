@@ -39,7 +39,7 @@ The purpose of this repository is to:
 ---
 
 ## 📂 Repository Structure
-
+```
 java/
 │── basics/
 │   │── variables/data types
