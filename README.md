@@ -70,6 +70,6 @@ This repository will continue to grow with more:
 
 ---
 
-## 👨‍💻 Author
+`## 👨‍💻 Author`
 **Vivek Shetty**  
 B.Tech CSE Student | Java for Problem Solving & MERN Stack for Projects
